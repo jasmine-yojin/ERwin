@@ -1,0 +1,2 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742126::Name,1075849176::Physical Name,1075849763::Parent Entity  [read only],1075849764::Child Entity  [read only]
+"1075839016::333","Store is in MovieStore",Relationship,"FK_MovieStore_Store","FK_MovieStore_Store","Store","MovieStore"
